@@ -1,5 +1,5 @@
 
-<img align="right" alt="avatar" width="200" src="avatar2.JPG"> 
+<img align="right" alt="avatar" width="200" src="avatar.JPEG"> 
 
 ## Batuhanonline -- Batuhan GÜVEN
  ![](https://img.shields.io/badge/Backend%20Developer-Node.js%20%2F%20Python%20%2F%20JavaScript-blue)
