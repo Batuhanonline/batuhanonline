@@ -36,11 +36,13 @@
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
-  <div align="center"> 
-     <a href="">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=batuhanonline&theme=react">
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanonline&theme=react&line_height=40&hide=css"/>
-    </a>
+<div align="center"> 
+
+  <a href="">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanavunca&theme=radical&hide_border=false">
+  </a>
+  <br></br>
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanonline&theme=react&line_height=40&hide=css"/>
+  </a>
 </div
