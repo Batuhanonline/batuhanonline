@@ -41,7 +41,6 @@
   <a href="">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=batuhanonline&theme=radical&hide_border=false">
   </a>
-  <br></br>
   <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanonline&theme=react&line_height=40&hide=css"/>
   </a>
