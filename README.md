@@ -39,7 +39,7 @@
 <div align="center"> 
 
   <a href="">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=furkanavunca&theme=radical&hide_border=false">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=batuhanonline&theme=radical&hide_border=false">
   </a>
   <br></br>
   <a href="">
